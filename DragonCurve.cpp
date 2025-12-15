@@ -20,7 +20,7 @@ void DragonCurve::generate_next() {
     for (size_t i = 0; i < segments.size(); i++) {
         
         // Split the segment
-        auto split_segments = segments[i].split(true, false);
+        auto split_segments = segments[i].split(false, true);
         
         // Add the two new segments
         new_segments.push_back(split_segments.first);

@@ -1,2 +1,2 @@
-#define windowWidth 1700
-#define windowHeight 1500
+#define windowWidth 3000
+#define windowHeight 2000
