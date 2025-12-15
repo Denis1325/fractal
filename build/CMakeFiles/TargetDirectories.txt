@@ -1,0 +1,3 @@
+/home/denis/Documents/Projects/fractal/build/CMakeFiles/fractal.dir
+/home/denis/Documents/Projects/fractal/build/CMakeFiles/edit_cache.dir
+/home/denis/Documents/Projects/fractal/build/CMakeFiles/rebuild_cache.dir

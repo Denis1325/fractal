@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/denis/Documents/Projects/fractal/build",
+  "command": "/usr/bin/g++  -I/home/denis/Documents/Projects/fractal -I/usr/lib/fltk -I/home/denis/Documents/Projects/fractal/Graph_lib -g -std=c++20 -o CMakeFiles/fractal.dir/main.cpp.o -c /home/denis/Documents/Projects/fractal/main.cpp",
+  "file": "/home/denis/Documents/Projects/fractal/main.cpp",
+  "output": "CMakeFiles/fractal.dir/main.cpp.o"
+},
+{
+  "directory": "/home/denis/Documents/Projects/fractal/build",
+  "command": "/usr/bin/g++  -I/home/denis/Documents/Projects/fractal -I/usr/lib/fltk -I/home/denis/Documents/Projects/fractal/Graph_lib -g -std=c++20 -o CMakeFiles/fractal.dir/Graph_lib/Graph.cpp.o -c /home/denis/Documents/Projects/fractal/Graph_lib/Graph.cpp",
+  "file": "/home/denis/Documents/Projects/fractal/Graph_lib/Graph.cpp",
+  "output": "CMakeFiles/fractal.dir/Graph_lib/Graph.cpp.o"
+},
+{
+  "directory": "/home/denis/Documents/Projects/fractal/build",
+  "command": "/usr/bin/g++  -I/home/denis/Documents/Projects/fractal -I/usr/lib/fltk -I/home/denis/Documents/Projects/fractal/Graph_lib -g -std=c++20 -o CMakeFiles/fractal.dir/Graph_lib/GUI.cpp.o -c /home/denis/Documents/Projects/fractal/Graph_lib/GUI.cpp",
+  "file": "/home/denis/Documents/Projects/fractal/Graph_lib/GUI.cpp",
+  "output": "CMakeFiles/fractal.dir/Graph_lib/GUI.cpp.o"
+},
+{
+  "directory": "/home/denis/Documents/Projects/fractal/build",
+  "command": "/usr/bin/g++  -I/home/denis/Documents/Projects/fractal -I/usr/lib/fltk -I/home/denis/Documents/Projects/fractal/Graph_lib -g -std=c++20 -o CMakeFiles/fractal.dir/Graph_lib/Window.cpp.o -c /home/denis/Documents/Projects/fractal/Graph_lib/Window.cpp",
+  "file": "/home/denis/Documents/Projects/fractal/Graph_lib/Window.cpp",
+  "output": "CMakeFiles/fractal.dir/Graph_lib/Window.cpp.o"
+},
+{
+  "directory": "/home/denis/Documents/Projects/fractal/build",
+  "command": "/usr/bin/g++  -I/home/denis/Documents/Projects/fractal -I/usr/lib/fltk -I/home/denis/Documents/Projects/fractal/Graph_lib -g -std=c++20 -o CMakeFiles/fractal.dir/DragonCurve.cpp.o -c /home/denis/Documents/Projects/fractal/DragonCurve.cpp",
+  "file": "/home/denis/Documents/Projects/fractal/DragonCurve.cpp",
+  "output": "CMakeFiles/fractal.dir/DragonCurve.cpp.o"
+},
+{
+  "directory": "/home/denis/Documents/Projects/fractal/build",
+  "command": "/usr/bin/g++  -I/home/denis/Documents/Projects/fractal -I/usr/lib/fltk -I/home/denis/Documents/Projects/fractal/Graph_lib -g -std=c++20 -o CMakeFiles/fractal.dir/Vec2d.cpp.o -c /home/denis/Documents/Projects/fractal/Vec2d.cpp",
+  "file": "/home/denis/Documents/Projects/fractal/Vec2d.cpp",
+  "output": "CMakeFiles/fractal.dir/Vec2d.cpp.o"
+}
+]
